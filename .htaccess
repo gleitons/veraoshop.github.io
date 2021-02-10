@@ -1,0 +1,17 @@
+
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+ErrorDocument 404 http://veraoshop.com/404
+</IfModule>
+
+RewriteEngine Off
+RewriteCond %{HTTP:X-Forwarded-Proto} =http
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redireciona domínio antigo para novo domínio
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^https://veraoshop.com/tag-produto/sinedrol-suplemento-funciona[NC]
+RewriteRule ^(.*)$ http://veraoshop.com/sinedrol/$1 [L,R=301]
+</IfModule>
