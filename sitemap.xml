@@ -1018,10 +1018,6 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>http://veraoshop.com/img/placeholder-image.png</image:loc>
-	<image:title>placeholder%20image</image:title>
-	</image:image>
-	<image:image>
 	<image:loc>http://veraoshop.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
