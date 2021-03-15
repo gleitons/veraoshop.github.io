@@ -1,986 +1,338 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-	<loc>https://veraoshop.com/topo-e-fundo/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://veraoshop.com</loc>
+	<loc>http://naturfive.com</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/360-slim-original-funciona-verao-shop-online.jpg</image:loc>
-	<image:title>360%20slim-original-funciona-verao-shop-online</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/verao-shop-logo-search.jpg</image:loc>
+	<image:loc>http://naturfive.com/img/logo-naturfive.jpg</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/verao-shop-logo-search.jpg</image:loc>
+	<image:loc>http://naturfive.com/img/logo-naturfive.jpg</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/livro-adeus-enxaqueca-pdf-gratis/</loc>
+	<loc>http://naturfive.com/produtos/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/autora-do-livro-adeus-enxaqueca-280x280.jpg</image:loc>
-	<image:title>autora%20do-livro-adeus-enxaqueca-280x280</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/110-receitas-caseiras-para-seu-cabelo-funciona-usei-e-te-conto/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://veraoshop.com/110-receitas-caseiras-para-seu-cabelo-crescermais-rapido/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://veraoshop.com/21-dias-fit-projeto/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://veraoshop.com/akalmesse-para-dormir/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://veraoshop.com/como-prever-os-numeros-da-loteria-com-sonhos-lucidos/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://veraoshop.com/tvaca-tesao-de-vaca-serve-mesmo-como-o-tvaca-funciona/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://veraoshop.com/contato/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/verao-shop-logo-search.jpg</image:loc>
-	<image:title>verao%20shop-logo-search</image:title>
+	<image:loc>http://naturfive.com/img/caps4skin-desconto-naturfive-26300217000100-min.png</image:loc>
+	<image:title>caps4skin%20desconto-naturfive-26300217000100-min</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/recapture-placeholder.png</image:loc>
-	<image:title>recapture%20placeholder</image:title>
+	<image:loc>http://naturfive.com/img/fortific-hair-desconto.jpg</image:loc>
+	<image:title>fortific%20hair-desconto</image:title>
 	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/verao-shop-online/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/delineadores-para-os-olhos-magnetico.jpg</image:loc>
+	<image:title>delineadores%20para-os-olhos-magnetico</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/aviso-legal/</loc>
+	<loc>http://naturfive.com/sobre/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/tesao-de-vaca-tvaca/</loc>
+	<loc>http://naturfive.com/politicas-de-privacidade/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/forma-de-pagamento/</loc>
+	<loc>http://naturfive.com/duvidas/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/termos-de-uso/</loc>
+	<loc>http://naturfive.com/mam-caps-ads/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/mam-caps-comprar-min.png</image:loc>
+	<image:title>comprar-mam-caps-desconto</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/bebes-fundo-mam-caps.jpg</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/hero-mam-caps-produto.png</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/duvidas/</loc>
+	<loc>http://naturfive.com/mam-caps-funciona/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/mam-caps-comprar-min.png</image:loc>
+	<image:title>comprar-mam-caps-desconto</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/politicas-de-privacidade/</loc>
+	<loc>http://naturfive.com/contato/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/logo-naturfive-produtos-naturais.svg</image:loc>
+	<image:title>logo%20naturfive-produtos-naturais</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/sobre/</loc>
+	<loc>http://naturfive.com/404/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/veraoshop-veraoshoponline-verao-shop-online.svg</image:loc>
-	<image:title>veraoshop%20verãoshop-verao-shop-online</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/prazo-de-entrega/</loc>
+	<loc>http://naturfive.com/delineador-magnetico/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/delineadores-para-os-olhos-magnetico.jpg</image:loc>
+	<image:title>delineadores%20para-os-olhos-magnetico</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/delineador-frente.jpg</image:loc>
+	<image:title>delineador%20frente</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/delineador-2-unidades.jpg</image:loc>
+	<image:title>delineador%20frente</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/marca-do-delineador-min.png</image:loc>
+	<image:title>marca%20do-delineador-min</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/delineador-2-unidades.jpg</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/delineador-2-unidades.jpg</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/produto/</loc>
+	<loc>http://naturfive.com/obrigado/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/naturfive-logo.svg</image:loc>
+	<image:title>naturfive%20logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/capsulados/</loc>
+	<loc>http://naturfive.com/sinedrol/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/treinamento/</loc>
+	<loc>http://naturfive.com/caps4skin/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
-	<video:video>
-	<video:content_loc>https://veraoshop.com/vid/video-placeholder.mp4</video:content_loc>
-	<video:title>video-placeholder</video:title>
-	</video:video>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/caps4skin-desconto-naturfive-26300217000100-min.png</image:loc>
+	<image:title>caps4skin%20desconto-naturfive-26300217000100-min</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/produtos-gratis/</loc>
+	<loc>http://naturfive.com/fortfichair/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/emagrecedores/</loc>
+	<loc>http://naturfive.com/fortifichair-funciona/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/fortific-hair-para-cabelos.png</image:loc>
+	<image:title>fortific%20hair-para-cabelos</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/verão-shop--shop-online-1/</loc>
+	<loc>http://naturfive.com/clarevita/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/logo-clarevita-naturfive-26300217000100.png</image:loc>
+	<image:title>logo%20clarevita-naturfive-26300217000100</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/clarevita-clareador-de-pele-que-funciona-26300217000100-1x.jpg</image:loc>
+	<image:title>clarevita%20clareador-de-pele-que-funciona-26300217000100-1x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/grafico-clarevita-como-funciona.jpg</image:loc>
+	<image:title>grafico%20clarevita-como-funciona</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/comprar-clarevita-com-desconto.png</image:loc>
+	<image:title>comprar%20clarevita-com-desconto</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/produto-unidade/</loc>
+	<loc>http://naturfive.com/man-caps/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/produto-exterminador-de-insetos-extinseto-1.jpg</image:loc>
-	<image:title>produto%20exterminador-de-insetos-extinseto</image:title>
+	<image:loc>http://naturfive.com/img/mam-caps-comprar-min.png</image:loc>
+	<image:title>comprar-mam-caps-desconto</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/bottox-caps/</loc>
+	<loc>http://naturfive.com/360slim/</loc>
 	<lastmod>2021-03-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/preco-bottox-caps-original.jpg</image:loc>
+	<image:loc>http://naturfive.com/img/360-slim-360slim-ver-video-completo.jpeg</image:loc>
+	<image:title>360%20slim-360slim-ver-video-completo.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/botao-verde-quero-emagrecer-26300217000100.png</image:loc>
+	<image:title>botao%20verde-quero-emagrecer-26300217000100</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/selo-seguro-naturfive-360slim-26300217000100.png</image:loc>
+	<image:title>selo%20seguro-naturfive-360slim-26300217000100</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/termos-de-uso-black/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/verao-shop-online-dark/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/produto-exterminador-de-insetos-extinseto.jpg</image:loc>
-	<image:title>produto%20exterminador-de-insetos-extinseto</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/politicas-de-privacidade-dark/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/sinedrol/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/Novo-Pote-sinedrol-for%25C3%25A7a-m%25C3%25A1xima.png</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/sinedrol-depoimentos/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/sinedrol_antes_depois.jpg</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/404/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/clique-aqui-para-pesquisar.png</image:loc>
-	<image:title>clique%20aqui-para-pesquisar</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/sinedrol-funciona/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/sinedrol-suplemento-emagrecedor.gif</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/especial-sinedrol/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/dicas-queimar-gordura-e-ganhar-massa-nesse-mes/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/hipertofria-total/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/sinedrol-original/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/sinedrol-funciona-emagrece-ANVISA.jpg</image:loc>
-	<image:title>sinedrol-funciona</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/Novo-Pote-sinedrol-forca-maxima.png</image:loc>
-	<image:title>sinedrol-original</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/comprar-agora-com-desconto-sinedrol.jpg</image:loc>
-	<image:title>sinedrol-site-oficial</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/sinedrol-depoimentos-1.jpg</image:loc>
-	<image:title>sinedrol-depoimento</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/sinedrol-depoimentos-2.jpg</image:loc>
-	<image:title>sinedrol-depoimentos</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/comprar-akalmesse-agora.jpg</image:loc>
-	<image:title>sinedrol-preço</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/produto-Sinedrol.gif</image:loc>
-	<image:title>sinedrol-desconto</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/maca-peruana/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/estrela-maca-peruana-maca-force.png</image:loc>
-	<image:title>estrela%20maca-peruana-maca-force</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/ajuda/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/iniciar-quiz/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/selecione-seu-genero-veraoshop-online.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/homem/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/homem-escolha-veraoshop.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/mulher/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/mulher-escolha-veraoshop.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/deseja-emagrecer/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/homem-e-mulher-perder-peso-juntos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/menos-5/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/emagrecer-menos-de-5-quilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/de-5-a-10-kilos/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/emagreca-de-05-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/mais-de-10-kilos/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/perder-mais-de-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/qual-sua-altura/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/perder-mais-de-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/qual-seu-peso/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/perder-mais-de-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/qual-sua-idade/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/perder-mais-de-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/calculando-emagrecer/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/perder-mais-de-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/calculado-emagrecer/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/perder-mais-de-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/lgbts/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/lgbts-genero.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/definir/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/definicao-corpo-verao-shop-online.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/calculado-definir/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/perder-mais-de-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/tudo/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/perder-mais-de-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/calculando-definir/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/perder-mais-de-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/calculando-tudo/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/estagios-emagrecimento-definicao-mulher.png</image:loc>
-	<image:title>slide%201</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/estagios-emagrecimento-definicao-homem.jpg</image:loc>
-	<image:title>slide%202</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/comecar-por/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/perder-mais-de-10-kilos.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/emagrecer-tudo/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/definicao-corpo-verao-shop-online.jpg</image:loc>
-	<image:title>Quiz%20emagrecimento-você-esta-se-alimentando-bem</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/360-slim/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/360-slim-funciona-de-verdade.jpg</image:loc>
-	<image:title>360%20slim-funciona-de-verdade</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/comprar-akalmesse-agora.jpg</image:loc>
-	<image:title>comprar%20akalmesse-agora</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/enviado/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/land-performace/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://veraoshop.com/akalmesse/</loc>
-	<lastmod>2021-03-15</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:loc>http://naturfive.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>

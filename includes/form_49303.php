@@ -1,17 +1,17 @@
 <?php	
 	
 	
-	$tentando_engravidar = $_POST['tentando_engravidar'];
 	$ = $_POST[''];
 	$ = $_POST[''];
-	$optin = $_POST['optin'];
+	$ = $_POST[''];
+	$optin_49303 = $_POST['optin_49303'];
 	
 	$to = 'naturfiveoficial@gmail.com'; // Email submissions are sent to this email
 
 	// Create email	
 	$email_subject = "Mam Caps Propaganda";
 	$email_body = "Mensagem recebida Mam Caps \n\n".
-				  "Tentando_Engravidar: $tentando_engravidar \n: $ \n: $ \nOptin: $optin \n";
+				  ": $ \n: $ \n: $ \nOptin_49303: $optin_49303 \n";
 	$headers = "MIME-Version: 1.0\r\nContent-type: text/plain; charset=UTF-8\r\n";	
 	$headers .= "From: send@naturfive.com\n";
 	$headers .= "Reply-To: DoNotReply@yoursite.com";	
