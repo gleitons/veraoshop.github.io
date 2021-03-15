@@ -1,1 +1,0 @@
-# veraoshop.github.io
