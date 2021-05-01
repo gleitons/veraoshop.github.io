@@ -1036,4 +1036,44 @@
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
+<url>
+	<loc>https://veraoshop.com/verao-shop-moda/</loc>
+	<lastmod>2021-05-01</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://veraoshop.com/img/logo-veraoshop-veraoshop-logo-veraoshop-online.svg</image:loc>
+	<image:title>logo-verao-shop-online-mobile-min</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://veraoshop.com/img/site-seguro-grupo-naturfive-veraoshop.svg</image:loc>
+	<image:title>site%20seguro-grupo-naturfive-veraoshop</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://veraoshop.com/contato-verao/</loc>
+	<lastmod>2021-05-01</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://veraoshop.com/img/recapture-placeholder.png</image:loc>
+	<image:title>recapture%20placeholder</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://veraoshop.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
 </urlset>
