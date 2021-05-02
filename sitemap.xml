@@ -7,10 +7,10 @@
 	<priority>0.5</priority>
 </url>
 <url>
-	<loc>https://veraoshop.com</loc>
+	<loc>https://veraoshop.com/verão-shop--shop-online/</loc>
 	<lastmod>2021-05-02</lastmod>
 	<changefreq>Weekly</changefreq>
-	<priority>1.0</priority>
+	<priority>0.5</priority>
 	<image:image>
 	<image:loc>https://veraoshop.com/img/360-slim-original-funciona-verao-shop-online.jpg</image:loc>
 	<image:title>360%20slim-original-funciona-verao-shop-online</image:title>
@@ -1019,10 +1019,10 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://veraoshop.com/verao-shop-loja-online/</loc>
+	<loc>https://veraoshop.com</loc>
 	<lastmod>2021-05-02</lastmod>
 	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
+	<priority>1.0</priority>
 	<image:image>
 	<image:loc>https://veraoshop.com/img/logo-veraoshop-veraoshop-logo-veraoshop-online.svg</image:loc>
 	<image:title>logo-verao-shop-online-mobile-min</image:title>
